@@ -1,0 +1,3 @@
+/home/user/cppzal/z2/build/CMakeFiles/edit_cache.dir
+/home/user/cppzal/z2/build/CMakeFiles/degConv.dir
+/home/user/cppzal/z2/build/CMakeFiles/rebuild_cache.dir

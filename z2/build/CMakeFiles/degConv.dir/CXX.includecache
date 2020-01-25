@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/cppzal/z2/EuropeanPrinter.cpp
+EuropeanPrinter.h
+/home/user/cppzal/z2/EuropeanPrinter.h
+iostream
+-
+
+/home/user/cppzal/z2/EuropeanPrinter.h
+
+/home/user/cppzal/z2/MathematicalCalculations.cpp
+MathematicalCalculations.h
+/home/user/cppzal/z2/MathematicalCalculations.h
+
+/home/user/cppzal/z2/MathematicalCalculations.h
+
+/home/user/cppzal/z2/main.cpp
+MathematicalCalculations.h
+/home/user/cppzal/z2/MathematicalCalculations.h
+EuropeanPrinter.h
+/home/user/cppzal/z2/EuropeanPrinter.h
+iostream
+-
+

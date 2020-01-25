@@ -1,0 +1,31 @@
+Basket 1:
+Belgia
+Wlochy
+Anglia
+Niemcy
+Hiszpania
+Ukraina
+
+Basket 2:
+Francja
+Polska
+Szwajcaria
+Chorwacja
+Holandia
+Rosja
+
+Basket 3:
+Portugalia
+Turcja
+Dania
+Austria
+Szwecja
+Czechy
+
+Basket 4:
+Walia
+Finlandia
+Islandia
+Estonia
+Luksemburg
+Serbia
